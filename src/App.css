@@ -1,0 +1,40 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+.App {
+  background-color: #2a2e33;
+}
+a:hover {
+  color: rgb(188, 188, 188);
+}
+.footer-bar ul {
+  list-style-type: none;
+  margin: 10px 10px;
+}
+.footer-bar-social {
+  display: flex;
+  justify-content: flex-end;
+}
+.game-list-items-anchor svg path {
+  margin-top: 5px;
+}
+.gameListItems-card-parapraph {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.display-flex {
+  display: flex;
+}
+.muted {
+  color: #aaaaaa;
+}
+.gamelist-serach-input:focus {
+  color: #fff;
+}
