@@ -1,4 +1,4 @@
-# GameInfo - [Demo](https://gameinfo-app.netlify.app/gamelist)
+# GameInfo - [Demo](https://gameinfo-app.netlify.app)
 ![Screenshot](demo.png)
 ### Find & track the best free-to-play games!  Track what you've played and search for what to play next! 
 #### In this application you can get information about last game and Minimum System Requirements information
