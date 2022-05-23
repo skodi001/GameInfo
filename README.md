@@ -6,6 +6,4 @@
 ### Tech Stacks
 `React.js`, `React-Router`, `Material UI`, `React-icons`, `Axios` and `Vite.js`.
 
-#� �G�a�m�e�I�n�f�o�
-�
-�
+
